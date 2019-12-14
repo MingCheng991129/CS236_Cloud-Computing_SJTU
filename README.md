@@ -1,2 +1,2 @@
 
-This repository contains the experiment and final report of CS236, SJTU.
+This repository contains the experiment of CS236, SJTU.
